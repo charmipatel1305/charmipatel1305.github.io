@@ -161,3 +161,13 @@ section h3 {
     align-items: center;
   }
 }
+
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ddd;
+  margin-bottom: 16px;
+}
+
